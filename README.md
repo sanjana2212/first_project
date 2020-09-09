@@ -1,2 +1,3 @@
 # first_project
-Movielens project for harvard
+Movielens project for data science course
+
